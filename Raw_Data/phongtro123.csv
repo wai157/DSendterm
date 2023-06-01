@@ -1,0 +1,972 @@
+,Location,Price,Area
+0,"Địa chỉ: Đinh Đạt, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",2.8 triệu/tháng,31m2
+1,"Địa chỉ: Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,35m2
+2,"Địa chỉ: 96 Đường Trần Quý Khoách, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,90m2
+3,"Địa chỉ: Đường Lê Văn Tâm, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,25m2
+4,"Địa chỉ: 22A Phước Hòa, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,15m2
+5,"Địa chỉ: 132 Đường Duy Tân, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",1.9 triệu/tháng,17m2
+6,"Địa chỉ: 71 Bùi Xương Tự, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.4 triệu/tháng,25m2
+7,"Địa chỉ: Lê Thị Hồng Gấm, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",3.5 triệu/tháng,35m2
+8,"Địa chỉ: Ngũ Hành Sơn, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2.5 triệu/tháng,35m2
+9,"Địa chỉ: 508 Lê Văn Hiến, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,20m2
+10,"Địa chỉ: Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",1.8 triệu/tháng,25m2
+11,"Địa chỉ: 582 2/9, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,30m2
+12,"Địa chỉ: K35/3 Đường Nam Thành, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,20m2
+13,"Địa chỉ: Đà Sơn, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.1 triệu/tháng,35m2
+14,"Địa chỉ: Cuối đường Đường Phan Khoang, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",1.9 triệu/tháng,22m2
+15,"Địa chỉ: 559 Đường Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",1.7 triệu/tháng,25m2
+16,"Địa chỉ: K164 Hoàng Diệu, Phường Hải Châu II, Quận Hải Châu, Đà Nẵng",2.3 triệu/tháng,30m2
+17,"Địa chỉ: 146 Bùi Vịnh, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,25m2
+18,"Địa chỉ: K153 Âu Cơ, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",2.8 triệu/tháng,60m2
+19,"Địa chỉ: Nguyễn Xuân Hữu, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,25m2
+20,"Địa chỉ: Đỗ Thúc Tịnh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",3.9 triệu/tháng,28m2
+21,"Địa chỉ: Đỗ Thúc Tịnh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",4 triệu/tháng,26.3m2
+22,"Địa chỉ: 83 Đường Yên Thế, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",3 triệu/tháng,25m2
+23,"Địa chỉ: số 199 Phố Phó Đức Chính, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",1.5 triệu/tháng,18m2
+24,"Địa chỉ: 196/50 A Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,25m2
+25,"Địa chỉ: 159 Nguyễn Đình Chiểu, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",3 triệu/tháng,30m2
+26,"Địa chỉ: Trần Huy Liệu, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,25m2
+27,"Địa chỉ: Đường Chế Lan Viên, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.2 triệu/tháng,35m2
+28,"Địa chỉ: 41 Dương Đức Hiền, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.5 triệu/tháng,40m2
+29,"Địa chỉ: Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.7 triệu/tháng,30m2
+30,"Địa chỉ: K1/40 Hoàng Văn Thái, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1 triệu/tháng,20m2
+31,"Địa chỉ: Đường Bùi Công Trừng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,40m2
+32,"Địa chỉ: Hải Phòng, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng",2.6 triệu/tháng,30m2
+33,"Địa chỉ: Hà Thị Thân, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng",3.5 triệu/tháng,30m2
+34,"Địa chỉ: Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",1.5 triệu/tháng,28m2
+35,"Địa chỉ: Nguyễn Xuân Hữu, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,20m2
+36,"Địa chỉ: Nguyễn Văn Linh, Phường Nam Dương, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,10m2
+37,"Địa chỉ: k95/16 Bà Huyện Thanh Quan, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,20m2
+38,"Địa chỉ: Đường Lê Quang Sung, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",1.4 triệu/tháng,14m2
+39,"Địa chỉ: Trần Quang Khải, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",2.2 triệu/tháng,25m2
+40,"Địa chỉ: 71 Đường Bùi Xương Tự, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.4 triệu/tháng,20m2
+41,"Địa chỉ: 24 Đường An Cư 5, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",3.5 triệu/tháng,30m2
+42,"Địa chỉ: 26 Phong Bắc 9, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.2 triệu/tháng,22m2
+43,"Địa chỉ: Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",2.7 triệu/tháng,20m2
+44,"Địa chỉ: Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1 triệu/tháng,20m2
+45,"Địa chỉ: 500 Đường Tôn Đản, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,30m2
+46,"Địa chỉ: 83 Trần Văn Giáp, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,12m2
+47,"Địa chỉ: 06 Dương Lâm, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",3 triệu/tháng,40m2
+48,"Địa chỉ: 146 Đường Bùi Vịnh, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,22m2
+49,"Địa chỉ: k40/27 Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,23m2
+50,"Địa chỉ: 1121 Đường Âu Cơ, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,25m2
+51,"Địa chỉ: Lê Duẩn, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,30m2
+52,"Địa chỉ: 02 Phần Lăng 16, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",3.5 triệu/tháng,25m2
+53,"Địa chỉ: 26 Đặng Thái Thân, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",1.6 triệu/tháng,14m2
+54,"Địa chỉ: K94 Nguyễn Công Trứ, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng",2.9 triệu/tháng,29m2
+55,"Địa chỉ: Đường Duy Tân, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",3.8 triệu/tháng,30m2
+56,"Địa chỉ: Kiệt 4 Duy Tân, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",3.8 triệu/tháng,30m2
+57,"Địa chỉ: 50 Phạm Thiều, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",2.8 triệu/tháng,25m2
+58,"Địa chỉ: 63 Nguyễn Khánh Toàn, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+59,"Địa chỉ: 42 Đường Lâm Hoành, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",2.8 triệu/tháng,22m2
+60,"Địa chỉ: Bùi Vịnh, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.2 triệu/tháng,25m2
+61,"Địa chỉ: 50 Đường Phạm Thiều, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",3.5 triệu/tháng,35m2
+62,"Địa chỉ: Võ Văn Kiệt, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",3 triệu/tháng,25m2
+63,"Địa chỉ: Đường Võ Chí Công, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.8 triệu/tháng,45m2
+64,"Địa chỉ: Đường Phan Thị Nể, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.3 triệu/tháng,17m2
+65,"Địa chỉ: 06 Trương Quang Giao, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",3 triệu/tháng,20m2
+66,"Địa chỉ: Phạm Như Xương, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,25m2
+67,"Địa chỉ: Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",1.8 triệu/tháng,28m2
+68,"Địa chỉ: 7 Ngô Thế Lân, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,20m2
+69,"Địa chỉ: 305 Huy Cận, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.3 triệu/tháng,14m2
+70,"Địa chỉ: Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,20m2
+71,"Địa chỉ: Đường Vương Thừa Vũ, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",2.8 triệu/tháng,40m2
+72,"Địa chỉ: Đường Điện Biên Phủ, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,18m2
+73,"Địa chỉ: Đường Nguyễn Xuân Hữu, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,20m2
+74,"Địa chỉ: Lê Hữu Trác, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",2.8 triệu/tháng,24m2
+75,"Địa chỉ: Hải Hồ, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",1.4 triệu/tháng,30m2
+76,"Địa chỉ: Đường Đinh Đạt, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",2.5 triệu/tháng,46m2
+77,"Địa chỉ: Đường Đặng Chiêm, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.3 triệu/tháng,20m2
+78,"Địa chỉ: K138/22 Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",1.3 triệu/tháng,12m2
+79,"Địa chỉ: 282 Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",1.8 triệu/tháng,30m2
+80,"Địa chỉ: 84 Đường Nguyễn Chánh, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,20m2
+81,"Địa chỉ: Âu Cơ, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,20m2
+82,"Địa chỉ: Đường Nguyễn Văn Thoại, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",4.5 triệu/tháng,25m2
+83,"Địa chỉ: 380 Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.5 triệu/tháng,22m2
+84,"Địa chỉ: Đường Nguyễn Huy Tưởng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,25m2
+85,"Địa chỉ: Hoàng Sĩ Khải, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",1.5 triệu/tháng,18m2
+86,"Địa chỉ: Đường Xuân Diệu, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,20m2
+87,"Địa chỉ: Đường Nguyễn Hiền, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",2.4 triệu/tháng,20m2
+88,"Địa chỉ: Phan Tứ, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.2 triệu/tháng,18m2
+89,"Địa chỉ: K388/2 Núi Thành, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,30m2
+90,"Địa chỉ: K27/21 Ngõ A Đường Nguyễn Huy Tưởng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,30m2
+91,"Địa chỉ: Phạm Như Xương, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.1 triệu/tháng,18m2
+92,"Địa chỉ: 40 Đường Châu Văn Liêm, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng",800.000 đồng/tháng,20m2
+93,"Địa chỉ: k664/09 Đường Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",1 triệu/tháng,25m2
+94,"Địa chỉ: 06 Trương Quang Giao, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",3 triệu/tháng,25m2
+95,"Địa chỉ: Đường Võ Chí Công, Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,12m2
+96,"Địa chỉ: Đường Trần Huấn, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.2 triệu/tháng,15m2
+97,"Địa chỉ: 584/6 Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,24m2
+98,"Địa chỉ: Hoàng Văn Thái, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.5 triệu/tháng,20m2
+99,"Địa chỉ: An Thượng 9, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",10 triệu/tháng,60m2
+100,"Địa chỉ: Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.4 triệu/tháng,22m2
+101,"Địa chỉ: 453-H1/10 Cách Mạng Tháng Tám, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.2 triệu/tháng,25m2
+102,"Địa chỉ: 340/9 Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",1.7 triệu/tháng,12m2
+103,"Địa chỉ: 198 Đường Nguyễn Công Trứ, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",2.5 triệu/tháng,45m2
+104,"Địa chỉ: Đường Nại Hiên Đông 11, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",3 triệu/tháng,40m2
+105,"Địa chỉ: Lê Lợi, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng",1.1 triệu/tháng,12m2
+106,"Địa chỉ: K 94 Nguyễn Công Trứ, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng",2.5 triệu/tháng,24m2
+107,"Địa chỉ: 68/2 Đường Trần Bình Trọng, Phường Hải Châu II, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,12m2
+108,"Địa chỉ: Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",3 triệu/tháng,25m2
+109,"Địa chỉ: 408/4 Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.3 triệu/tháng,20m2
+110,"Địa chỉ: k123/97/58 Cù Chính Lan, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,15m2
+111,"Địa chỉ: 493 Tôn Đức Thắng, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",3.2 triệu/tháng,40m2
+112,"Địa chỉ: K45 Lê Độ, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,12m2
+113,"Địa chỉ: Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",3 triệu/tháng,50m2
+114,"Địa chỉ: K51/34 Âu Cơ, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.8 triệu/tháng,25m2
+115,"Địa chỉ: K18/17 Phùng Hưng, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,40m2
+116,"Địa chỉ: K2/17C Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,35m2
+117,"Địa chỉ: 319/33 Trưng Nữ Vương, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,18m2
+118,"Địa chỉ: k266 H14 Hoàng Diệu, Phường Nam Dương, Quận Hải Châu, Đà Nẵng",1.4 triệu/tháng,16m2
+119,"Địa chỉ: 1 Phạm Văn Bạch, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,20m2
+120,"Địa chỉ: 39 Đường Bùi Xương Tự, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1 triệu/tháng,70m2
+121,"Địa chỉ: 139 Đường Ngô Quyền, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng",1 triệu/tháng,20m2
+122,"Địa chỉ: 3 Đường Phạm Văn Bạch, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,250m2
+123,"Địa chỉ: Đường Tống Phước Phổ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,15m2
+124,"Địa chỉ: Vương Thừa Vũ, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",1.2 triệu/tháng,18m2
+125,"Địa chỉ: Ỷ Lan Nguyên Phi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",4.5 triệu/tháng,35m2
+126,"Địa chỉ: 110/24 Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",2.7 triệu/tháng,24m2
+127,"Địa chỉ: 102 Đường Hải Hồ, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,16m2
+128,"Địa chỉ: Núi Thành, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,30m2
+129,"Địa chỉ: Phường Hòa Hiệp Nam, Quận Liên Chiểu, Đà Nẵng",700.000 đồng/tháng,20m2
+130,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",900.000 đồng/tháng,18m2
+131,"Địa chỉ: 32 Đường Dương Thị Xuân Quý, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",5 triệu/tháng,42m2
+132,"Địa chỉ: K266 H14/19 Hoàng Diệu, Phường Nam Dương, Quận Hải Châu, Đà Nẵng",1.4 triệu/tháng,16m2
+133,"Địa chỉ: 1 Phạm Văn Bạch, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,30m2
+134,"Địa chỉ: Đường Lê Hữu Trác, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",1 triệu/tháng,16m2
+135,"Địa chỉ: K264 Tô Hiệu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.1 triệu/tháng,20m2
+136,"Địa chỉ: 523/5 Đường Cách Mạng Tháng Tám, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",2.2 triệu/tháng,30m2
+137,"Địa chỉ: Trương Vân Lĩnh, Phường Hòa Hiệp Nam, Quận Liên Chiểu, Đà Nẵng",800.000 đồng/tháng,15m2
+138,"Địa chỉ: 35 Phan Tứ, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,20m2
+139,"Địa chỉ: 1 Phạm Văn Bạch, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,30m2
+140,"Địa chỉ: 92 Đống Đa, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,18m2
+141,"Địa chỉ: 155 Đường Yên Khê 2, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,30m2
+142,"Địa chỉ: 12 Đường Hoàng Đức Lương, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",1.2 triệu/tháng,16m2
+143,"Địa chỉ: 894 H7/4 Đường Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",2 triệu/tháng,40m2
+144,"Địa chỉ: Nhơn Hòa 7, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,22m2
+145,"Địa chỉ: k322/48 Hải Phòng, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",900.000 đồng/tháng,30m2
+146,"Địa chỉ: Đường Núi Thành, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",Thỏa thuận,30m2
+147,"Địa chỉ: Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,30m2
+148,"Địa chỉ: 322/48 Đường Hải Phòng, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,60m2
+149,"Địa chỉ: Kiệt 169/10 Ngô Quyền, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng",1 triệu/tháng,18m2
+150,"Địa chỉ: 894 H7/4 Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",2 triệu/tháng,40m2
+151,"Địa chỉ: 211 An Nông, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",1 triệu/tháng,20m2
+152,"Địa chỉ: Đầm Rong 2, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,30m2
+153,"Địa chỉ: Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",1 triệu/tháng,15m2
+154,"Địa chỉ: 268/16 Đường Trần Phú, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,14m2
+155,"Địa chỉ: Đường Chơn Tâm 3, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,15m2
+156,"Địa chỉ: K338 H81/17 Đường Hoàng Diệu, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng",2.2 triệu/tháng,19m2
+157,"Địa chỉ: Hòa Minh 1, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.4 triệu/tháng,20m2
+158,"Địa chỉ: 09 Tây Sơn, Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng",1.6 triệu/tháng,24m2
+159,"Địa chỉ: Lê Thạch, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",1 triệu/tháng,16m2
+160,"Địa chỉ: 204/9 Hải Phòng, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,12m2
+161,"Địa chỉ: 70 Trần Đức Thảo, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1.2 triệu/tháng,30m2
+162,"Địa chỉ: 4/9 Duy Tân, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",3.5 triệu/tháng,30m2
+163,"Địa chỉ: 1 Đường Phạm Văn Bạch, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,350m2
+164,"Địa chỉ: 112 Hồ Nguyên Trừng, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.3 triệu/tháng,15m2
+165,"Địa chỉ: 03 Mạc Thị Bưởi, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,15m2
+166,"Địa chỉ: H11/22k654 Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,18m2
+167,"Địa chỉ: 104 Tố Hữu, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1.6 triệu/tháng,15m2
+168,"Địa chỉ: 541/17 Núi Thành, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1.7 triệu/tháng,16m2
+169,"Địa chỉ: 15 Đường Nguyễn Sơn Trà, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,20m2
+170,"Địa chỉ: Ỷ Lan Nguyên Phi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,36m2
+171,"Địa chỉ: 1172 Đường Trường Chinh, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng",1.7 triệu/tháng,25m2
+172,"Địa chỉ: K58 Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",2.2 triệu/tháng,15m2
+173,"Địa chỉ: K120 Nguyễn Huy Tưởng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,50m2
+174,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.6 triệu/tháng,15m2
+175,"Địa chỉ: Đường Phạm Như Xương, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,20m2
+176,"Địa chỉ: Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,15m2
+177,"Địa chỉ: K46 Đường Nguyễn Đăng, Phường An Khê, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,20m2
+178,"Địa chỉ: 48 Đường K20, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2.5 triệu/tháng,35m2
+179,"Địa chỉ: tổ 19 Bình Kỳ, Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng",1.2 triệu/tháng,24m2
+180,"Địa chỉ: Đường Võ Chí Công, Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng",1.45 triệu/tháng,25m2
+181,"Địa chỉ: Kiệt 260 Điện Biên Phủ, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,20m2
+182,"Địa chỉ: 224 Lê Thanh Nghị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,20m2
+183,"Địa chỉ: 7 Bàu Gia Thượng 1, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,25m2
+184,"Địa chỉ: 50 Đường Trần Quý Khoách, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.9 triệu/tháng,20m2
+185,"Địa chỉ: 18 Đường số 2/9, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.3 triệu/tháng,20m2
+186,"Địa chỉ: 18 Bình Hòa 10, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,16m2
+187,"Địa chỉ: Nguyễn Sơn, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1 triệu/tháng,15m2
+188,"Địa chỉ: 398 Đường Kinh Dương Vương, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.8 triệu/tháng,15m2
+189,"Địa chỉ: 65 Bàu Gia Thượng 3, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,25m2
+190,"Địa chỉ: 65/5 Đường Đinh Tiên Hoàng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",2.2 triệu/tháng,20m2
+191,"Địa chỉ: 1 Phạm Văn Bạch, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,25m2
+192,"Địa chỉ: Đường Phan Văn Định, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,20m2
+193,"Địa chỉ: 28 Hồ Biểu Chánh, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1 triệu/tháng,13m2
+194,"Địa chỉ: Phạm Văn Bạch, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,30m2
+195,"Địa chỉ: 596/25 Lê Văn Hiến, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,16m2
+196,"Địa chỉ: 398 Đường Kinh Dương Vương, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,20m2
+197,"Địa chỉ: 27 Phố Nguyễn Khắc Nhu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1 triệu/tháng,25m2
+198,"Địa chỉ: Lê Văn Hiến, Quận Ngũ Hành Sơn, Đà Nẵng",2.5 triệu/tháng,30m2
+199,"Địa chỉ: K249/H83/19 Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",3 triệu/tháng,30m2
+200,"Địa chỉ: 172/55/16 Đường Nam Trân, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.8 triệu/tháng,35m2
+201,"Địa chỉ: K306/3 Đường Nguyễn Hoàng, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",1.2 triệu/tháng,25m2
+202,"Địa chỉ: 18 Bình Hòa 10, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,18m2
+203,"Địa chỉ: 172/55 Nam Trân, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.8 triệu/tháng,35m2
+204,"Địa chỉ: 172/55/18 Tô Hiệu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.9 triệu/tháng,35m2
+205,"Địa chỉ: 759/21 Trần Cao Vân, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,40m2
+206,"Địa chỉ: Đường Hoàng Diệu, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,20m2
+207,"Địa chỉ: K160 Đường Tống Duy Tân, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,15m2
+208,"Địa chỉ: Đường Hồ Xuân Hương, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",4.5 triệu/tháng,45m2
+209,"Địa chỉ: 11a Hồ Xuân Hương, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",4.5 triệu/tháng,45m2
+210,"Địa chỉ: Quận Thanh Khê, Đà Nẵng",Thỏa thuận,0m2
+211,"Địa chỉ: 18 Đường Chơn Tâm, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.7 triệu/tháng,15m2
+212,"Địa chỉ: 06 Nguyễn Nhàn, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.2 triệu/tháng,20m2
+213,"Địa chỉ: 20 Huỳnh Ngọc Huệ, Phường An Khê, Quận Thanh Khê, Đà Nẵng",3.5 triệu/tháng,25m2
+214,"Địa chỉ: H10/36 K53 2/9, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,40m2
+215,"Địa chỉ: 28 Đường Bàu Trảng 4, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",1.6 triệu/tháng,20m2
+216,"Địa chỉ: 410 Đường Văn Tiến Dũng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,20m2
+217,"Địa chỉ: K408 Đường Tôn Đản, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",2.4 triệu/tháng,24m2
+218,"Địa chỉ: Lương Văn Can, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",3.1 triệu/tháng,30m2
+219,"Địa chỉ: Lương Văn Can, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.7 triệu/tháng,25m2
+220,"Địa chỉ: Cồn Dầu 1, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,120m2
+221,"Địa chỉ: 161 Đường Lý Triện, Phường An Khê, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,22m2
+222,"Địa chỉ: K08/25 Hàn Mặc Tử, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,12m2
+223,"Địa chỉ: 250/37 Nguyễn Công Trứ, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",1.8 triệu/tháng,20m2
+224,"Địa chỉ: Khu trung nam Goden Hill Đường số 10, Phường Hòa Hiệp Bắc, Quận Liên Chiểu, Đà Nẵng",3.5 triệu/tháng,125m2
+225,"Địa chỉ: Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,20m2
+226,"Địa chỉ: 46/18 Đường Nguyễn Thành Hãn, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,18m2
+227,"Địa chỉ: 132 Trần Quý Khoách, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.2 triệu/tháng,20m2
+228,"Địa chỉ: 84 Hồ Tùng Mậu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",4.5 triệu/tháng,30m2
+229,"Địa chỉ: K408/38 Đường Tôn Đản, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",2.4 triệu/tháng,24m2
+230,"Địa chỉ: Đường Đỗ Đức Dục, Phường An Khê, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,25m2
+231,"Địa chỉ: K88/49 Đường Nguyễn Đức Trung, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,20m2
+232,"Địa chỉ: Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,25m2
+233,"Địa chỉ: 187 Đường Nguyễn Hữu Thọ, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,32m2
+234,"Địa chỉ: Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,20m2
+235,"Địa chỉ: Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",990.000 đồng/tháng,30m2
+236,"Địa chỉ: Đa Mặn 5, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",3 triệu/tháng,35m2
+237,"Địa chỉ: k58/6 Đường Nguyễn Đăng, Phường An Khê, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,20m2
+238,"Địa chỉ: 45 Đường Nguyễn Đôn Tiết, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+239,"Địa chỉ: H63/1 K448 Trưng Nữ Vương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+240,"Địa chỉ: Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",1.3 triệu/tháng,20m2
+241,"Địa chỉ: 02-04 Đa Mặn 5, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",3.7 triệu/tháng,45m2
+242,"Địa chỉ: Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",1.7 triệu/tháng,18m2
+243,"Địa chỉ: 02-04 Đường Đa Mặn 5, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",3.7 triệu/tháng,45m2
+244,"Địa chỉ: Đường Hoàng Thế Thiện, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,30m2
+245,"Địa chỉ: 291/23 Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,20m2
+246,"Địa chỉ: 231 Đường Lê Thanh Nghị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,30m2
+247,"Địa chỉ: Đường Hoàng Thế Thiện, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,30m2
+248,"Địa chỉ: k158/69a Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,15m2
+249,"Địa chỉ: 11 Nguyễn Xuân Khoát, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",2 triệu/tháng,25m2
+250,"Địa chỉ: 485 Nguyễn Tất Thành, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,25m2
+251,"Địa chỉ: Đối diện 706 Đường Trường Chinh, Phường Hòa Thọ Tây, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,20m2
+252,"Địa chỉ: k97/46 Đường Cách Mạng Tháng Tám, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",3 triệu/tháng,50m2
+253,"Địa chỉ: 237 Đường Thanh Vinh 10, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.1 triệu/tháng,22m2
+254,"Địa chỉ: Lê Đình Lý, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,30m2
+255,"Địa chỉ: 97 Cách Mạng Tháng Tám, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.2 triệu/tháng,25m2
+256,"Địa chỉ: 45b/24b Dũng Sĩ Thanh Khê, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",1 triệu/tháng,16m2
+257,"Địa chỉ: Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,25m2
+258,"Địa chỉ: 05 Trương Quang Giao, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,15m2
+259,"Địa chỉ: Đường Nguyễn Như Đãi, Phường Hòa Thọ Tây, Quận Cẩm Lệ, Đà Nẵng",1 triệu/tháng,22m2
+260,"Địa chỉ: Mai Xuân Thưởng, Quận Thanh Khê, Đà Nẵng",1.9 triệu/tháng,15m2
+261,"Địa chỉ: 100 Đường Nguyễn Huy Tưởng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,20m2
+262,"Địa chỉ: 168 Đường Hoàng Diệu, Phường Nam Dương, Quận Hải Châu, Đà Nẵng",1.7 triệu/tháng,20m2
+263,"Địa chỉ: 388/2 Núi Thành, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,30m2
+264,"Địa chỉ: Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,20m2
+265,"Địa chỉ: K81/52 Đường Phạm Như Xương, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.6 triệu/tháng,20m2
+266,"Địa chỉ: 248/6 Đường Cách Mạng Tháng Tám, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,23m2
+267,"Địa chỉ: Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.8 triệu/tháng,16m2
+268,"Địa chỉ: Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,20m2
+269,"Địa chỉ: K 126/15 Đường Cách Mạng Tháng Tám, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",3.8 triệu/tháng,70m2
+270,"Địa chỉ: Đường Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",1.2 triệu/tháng,13m2
+271,"Địa chỉ: H85/42/K448 Đường Trưng Nữ Vương, Quận Hải Châu, Đà Nẵng",1.2 triệu/tháng,18m2
+272,"Địa chỉ: Phường Hòa Thọ Tây, Quận Cẩm Lệ, Đà Nẵng",1 triệu/tháng,25m2
+273,"Địa chỉ: Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,30m2
+274,"Địa chỉ: 20 Đường Tiên Sơn 18, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+275,"Địa chỉ: Hải Triều, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,30m2
+276,"Địa chỉ: 183/23 Trần Xuân Lê Đường Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,18.5m2
+277,"Địa chỉ: K10H11/5 Đường Phạm Văn Nghị, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",1.4 triệu/tháng,16m2
+278,"Địa chỉ: K37/2 Đường Hà Huy Tập, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",1.2 triệu/tháng,9m2
+279,"Địa chỉ: 50 Đường Lâm Hoành, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",2.5 triệu/tháng,20m2
+280,"Địa chỉ: 82 Đường Thanh Tịnh, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.4 triệu/tháng,15m2
+281,"Địa chỉ: 65/5 Đinh Tiên Hoàng, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,30m2
+282,"Địa chỉ: Đường Đinh Tiên Hoàng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+283,"Địa chỉ: 45/118 Đường K20, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2.2 triệu/tháng,25m2
+284,"Địa chỉ: Bình An 1, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",Thỏa thuận,18m2
+285,"Địa chỉ: K171 Nguyễn Duy Trinh, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",1 triệu/tháng,20m2
+286,"Địa chỉ: 119 Phạm Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,30m2
+287,"Địa chỉ: 814b/23 Trần Cao Vân, Quận Thanh Khê, Đà Nẵng",2.2 triệu/tháng,25m2
+288,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,25m2
+289,"Địa chỉ: 35 Đường Tạ Hiện, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",3.5 triệu/tháng,25m2
+290,"Địa chỉ: 107 Đường Hoàng Thúc Trâm, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,20m2
+291,"Địa chỉ: Đường Đinh Tiên Hoàng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+292,"Địa chỉ: Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+293,"Địa chỉ: Trần Huy Liệu, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,25m2
+294,"Địa chỉ: Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,20m2
+295,"Địa chỉ: Hoàng Hoàng Văn Thái, Quận Liên Chiểu, Đà Nẵng",1 triệu/tháng,16m2
+296,"Địa chỉ: Đường Ông Ích Khiêm, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,22m2
+297,"Địa chỉ: Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+298,"Địa chỉ: 398 Đường Kinh Dương Vương, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.5 triệu/tháng,20m2
+299,"Địa chỉ: Trần Huy Liệu, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,25m2
+300,"Địa chỉ: Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",1.5 triệu/tháng,25m2
+301,"Địa chỉ: Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+302,"Địa chỉ: Nguyễn Đức Thuận, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",3.5 triệu/tháng,45m2
+303,"Địa chỉ: Đường Ông Ích Khiêm, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+304,"Địa chỉ: Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+305,"Địa chỉ: Đường Trần Huy Liệu, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,25m2
+306,"Địa chỉ: Đinh Tiên Hoàng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+307,"Địa chỉ: 01 Dương Bá Cung, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.2 triệu/tháng,30m2
+308,"Địa chỉ: 06 Nam Thành, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,32m2
+309,"Địa chỉ: K06/39 Đường Phạm Nhữ Tăng, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",700.000 đồng/tháng,10m2
+310,"Địa chỉ: Nguyễn Tri Phương, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,15m2
+311,"Địa chỉ: 72 an hải đông 1 An Cư 3, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",1 triệu/tháng,12m2
+312,"Địa chỉ: Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",2.5 triệu/tháng,30m2
+313,"Địa chỉ: Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1 triệu/tháng,25m2
+314,"Địa chỉ: Kiệt 249 Đường Hoài Thanh, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,18m2
+315,"Địa chỉ: 05 Đường Trần Huy Liệu, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.3 triệu/tháng,20m2
+316,"Địa chỉ: 06 Đường Nam Sơn 3, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",1 triệu/tháng,12m2
+317,"Địa chỉ: tổ 19 Đường Bình Kỳ, Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng",1.4 triệu/tháng,30m2
+318,"Địa chỉ: 9 Đường Mỹ An 6, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,15m2
+319,"Địa chỉ: 15 Phố Mạc Thiên Tích, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",3 triệu/tháng,30m2
+320,"Địa chỉ: Đường Thái Thị Bôi, Phường An Khê, Quận Thanh Khê, Đà Nẵng",2.8 triệu/tháng,24m2
+321,"Địa chỉ: 31 Đường Nguyễn Khuyến, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",2.5 triệu/tháng,25m2
+322,"Địa chỉ: K58/h01/32 Đường Võ Văn Tần, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",1.8 triệu/tháng,20m2
+323,"Địa chỉ: 718/5 Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",500.000 đồng/tháng,50m2
+324,"Địa chỉ: 30 Đường Phan Thúc Duyện, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.2 triệu/tháng,25m2
+325,"Địa chỉ: 30 Đường Phan Thúc Duyện, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.2 triệu/tháng,25m2
+326,"Địa chỉ: 186 Phạm Như Xương, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.3 triệu/tháng,40m2
+327,"Địa chỉ: 44 Trần Khánh Dư, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",3.5 triệu/tháng,30m2
+328,"Địa chỉ: 139 Chu Huy Mân, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",2 triệu/tháng,20m2
+329,"Địa chỉ: 28 Bàu Trảng 4 Bàu Trảng 5, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",1.8 triệu/tháng,20m2
+330,"Địa chỉ: Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,20m2
+331,"Địa chỉ: Đường Ngô Quyền, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng",2 triệu/tháng,27m2
+332,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.7 triệu/tháng,20m2
+333,"Địa chỉ: 2 3/2, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,20m2
+334,"Địa chỉ: 35 Đường Tạ Hiện, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,25m2
+335,"Địa chỉ: 356/89/32 Hoàng Diệu, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng",1.1 triệu/tháng,13m2
+336,"Địa chỉ: 138/9 Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",3 triệu/tháng,28m2
+337,"Địa chỉ: 502 504 Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.3 triệu/tháng,25m2
+338,"Địa chỉ: Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.4 triệu/tháng,24m2
+339,"Địa chỉ: 502 504 Đường Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,35m2
+340,"Địa chỉ: K215/108 Hà Huy Tập, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",3 triệu/tháng,30m2
+341,"Địa chỉ: 79 Nguyễn Sơn Đường Nguyễn Sơn, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1.7 triệu/tháng,18m2
+342,"Địa chỉ: Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,25m2
+343,"Địa chỉ: 100 Đường Hoài Thanh, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.3 triệu/tháng,8m2
+344,"Địa chỉ: Cách Mạng Tháng Tám, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,25m2
+345,"Địa chỉ: Phố Thi Sách, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,30m2
+346,"Địa chỉ: 38 - 40 Phố Lương Định Của, Quận Cẩm Lệ, Đà Nẵng",1.7 triệu/tháng,25m2
+347,"Địa chỉ: K814A/30/3 Đường Trần Cao Vân, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",3 triệu/tháng,30m2
+348,"Địa chỉ: 27 Đường Lê Văn An, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,25m2
+349,"Địa chỉ: 146 Đường Bùi Vịnh, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,20m2
+350,"Địa chỉ: Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,20m2
+351,"Địa chỉ: K43/3C Đường Mẹ Nhu, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,20m2
+352,"Địa chỉ: 12/9 Phố Lý Thường Kiệt, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng",2.3 triệu/tháng,25m2
+353,"Địa chỉ: Đường Hoàng Diệu, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,16m2
+354,"Địa chỉ: 814 Đường Trần Cao Vân, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",2.2 triệu/tháng,20m2
+355,"Địa chỉ: 20 Đường Cẩm Bắc 3, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.2 triệu/tháng,16m2
+356,"Địa chỉ: Đường Trần Văn Thành, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,15m2
+357,"Địa chỉ: Quận Sơn Trà, Đà Nẵng",2.5 triệu/tháng,25m2
+358,"Địa chỉ: 40 Đường Nguyễn Hữu Cầu, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",1.6 triệu/tháng,135m2
+359,"Địa chỉ: K78/H02/02 Đường Lê Thanh Nghị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,25m2
+360,"Địa chỉ: Đường Lương Văn Can, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.8 triệu/tháng,35m2
+361,"Địa chỉ: Đường Phan Huy Thực., Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",2.5 triệu/tháng,25m2
+362,"Địa chỉ: Đường Lê Thanh Nghị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,30m2
+363,"Địa chỉ: Đường Bàu Mạc 12, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,14m2
+364,"Địa chỉ: Đường Nguyễn Phước Thái, Phường An Khê, Quận Thanh Khê, Đà Nẵng",7 triệu/tháng,34m2
+365,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.8 triệu/tháng,16m2
+366,"Địa chỉ: 390/4 Đường Hoàng Diệu, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,40m2
+367,"Địa chỉ: 26 Đường Phong Bắc 9, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.3 triệu/tháng,22m2
+368,"Địa chỉ: 68 Đường Nguyễn Đình Chiểu, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2.5 triệu/tháng,30m2
+369,"Địa chỉ: d38 Đường An Thượng 34, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",4 triệu/tháng,35m2
+370,"Địa chỉ: K318/H20/4 Đường Núi Thành, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",1.3 triệu/tháng,16m2
+371,"Địa chỉ: Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,20m2
+372,"Địa chỉ: Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",1.8 triệu/tháng,25m2
+373,"Địa chỉ: K21/H09/12 Đường Dũng Sĩ Thanh Khê, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",1 triệu/tháng,16m2
+374,"Địa chỉ: 83 Đường Bùi Công Trừng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,25m2
+375,"Địa chỉ: 385/1 Đường Nguyễn Lương Bằng, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",800.000 đồng/tháng,20m2
+376,"Địa chỉ: 814b/23 Đường Trần Cao Vân, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",2.2 triệu/tháng,20m2
+377,"Địa chỉ: K23/1 Đường Ngô Gia Tự, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",1.6 triệu/tháng,25m2
+378,"Địa chỉ: 186/3 Đường Đổ Bá, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,12m2
+379,"Địa chỉ: d38 Đường An Thượng 34, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",3 triệu/tháng,25m2
+380,"Địa chỉ: Đường Trung Nghĩa 9, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,28m2
+381,"Địa chỉ: 40 Đường Lương Thế Vinh, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",2.5 triệu/tháng,26m2
+382,"Địa chỉ: d38 Đường An Thượng 34, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",4.5 triệu/tháng,40m2
+383,"Địa chỉ: Đường Nguyễn Văn Linh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",2.8 triệu/tháng,14m2
+384,"Địa chỉ: 96/17 Phố Thi Sách, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",2.8 triệu/tháng,30m2
+385,"Địa chỉ: 1 Đường Thôi Hữu, Quận Sơn Trà, Đà Nẵng",1.5 triệu/tháng,20m2
+386,"Địa chỉ: 35 Đường Khương Hữu Dụng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",1.85 triệu/tháng,29m2
+387,"Địa chỉ: 160/41 Đường Nguyễn Hoàng, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,18m2
+388,"Địa chỉ: Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,15m2
+389,"Địa chỉ: 41/9 Đường Pasteur, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,12m2
+390,"Địa chỉ: 1 Đường Bàu Mạc 8, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",2.2 triệu/tháng,20m2
+391,"Địa chỉ: Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2.2 triệu/tháng,20m2
+392,"Địa chỉ: 28 Đường Trần Hữu Trang, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.4 triệu/tháng,20m2
+393,"Địa chỉ: Phan Tứ Bà Tuyện Thanh Quan Đường Phan Tứ, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2.5 triệu/tháng,20m2
+394,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.5 triệu/tháng,30m2
+395,"Địa chỉ: 178 Đường Thái Thị Bôi, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,20m2
+396,"Địa chỉ: B1 Hồng Phước Đường số 10, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.6 triệu/tháng,18m2
+397,"Địa chỉ: 114 Đường Nguyễn Giản Thanh, Phường An Khê, Quận Thanh Khê, Đà Nẵng",1.2 triệu/tháng,14m2
+398,"Địa chỉ: Đường Núi Thành, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,25m2
+399,"Địa chỉ: K420/45 Đường Lê Văn Hiến, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2.5 triệu/tháng,20m2
+400,"Địa chỉ: Lô 19-C9 Đường Lý Nhật Quang, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",2.2 triệu/tháng,25m2
+401,"Địa chỉ: Đường Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.3 triệu/tháng,16m2
+402,"Địa chỉ: 27 Đường Mỹ Đa Đông 5, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2.2 triệu/tháng,15m2
+403,"Địa chỉ: 107a Đường Hoàng Thúc Trâm, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",3.5 triệu/tháng,25m2
+404,"Địa chỉ: kiệt 494 Đường Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.3 triệu/tháng,20m2
+405,"Địa chỉ: K131 H30/25 Đường Lý Thái Tổ, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",1.7 triệu/tháng,20m2
+406,"Địa chỉ: Đường Võ Văn Kiệt, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",4 triệu/tháng,30m2
+407,"Địa chỉ: Đường Ỷ Lan Nguyên Phi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,25m2
+408,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,20m2
+409,"Địa chỉ: Đường Nguyễn Đỗ Mục, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.2 triệu/tháng,20m2
+410,"Địa chỉ: Đường Loseby, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",3.5 triệu/tháng,30m2
+411,"Địa chỉ: Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,34m2
+412,"Địa chỉ: Phố Nguyễn Xí, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.7 triệu/tháng,40m2
+413,"Địa chỉ: 420/28 đường lê văn hiến gần bện viện phụ sản nhi đà nẵng Đường Lê Văn Hiến, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,20m2
+414,"Địa chỉ: Đường Nguyễn Chánh, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",3 triệu/tháng,18m2
+415,"Địa chỉ: 82 Đường Thanh Tịnh, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.8 triệu/tháng,12m2
+416,"Địa chỉ: Đường An Tư Công Chúa, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2.5 triệu/tháng,25m2
+417,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,16m2
+418,"Địa chỉ: Đường Duy Tân, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,18m2
+419,"Địa chỉ: 420/2 Đường Lê Văn Hiến, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,16m2
+420,"Địa chỉ: K634/H71/05 Đường Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",1.3 triệu/tháng,15m2
+421,"Địa chỉ: K58/8 Đường Võ Văn Tần, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",2.2 triệu/tháng,20m2
+422,"Địa chỉ: 21 Đường Võ Như Hưng, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",3 triệu/tháng,25m2
+423,"Địa chỉ: 139 Đường Đặng Huy Trứ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.1 triệu/tháng,29m2
+424,"Địa chỉ: Đường Phan Anh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,18m2
+425,"Địa chỉ: Đường Nguyễn Đình Chiểu, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,20m2
+426,"Địa chỉ: K87/19 Ngũ Hành Sơn Đường Ngũ Hành Sơn, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,20m2
+427,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,15m2
+428,"Địa chỉ: 101-105 Tống Duy Tân Đường Tống Duy Tân, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.6 triệu/tháng,20m2
+429,"Địa chỉ: Phố Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,15m2
+430,"Địa chỉ: Đường Tô Hiệu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,15m2
+431,"Địa chỉ: 382 Phố Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,15m2
+432,"Địa chỉ: K1 Đường Nam Trân, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.2 triệu/tháng,28m2
+433,"Địa chỉ: Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",1.8 triệu/tháng,20m2
+434,"Địa chỉ: Đường Ngô Quyền, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng",2.5 triệu/tháng,20m2
+435,"Địa chỉ: Đường Trần Văn Dư, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,14m2
+436,"Địa chỉ: K36 H09/07 Phạm Văn Nghị Đường Phạm Văn Nghị, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",2.4 triệu/tháng,20m2
+437,"Địa chỉ: K02/22 Đường Phan Hành Sơn, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,22m2
+438,"Địa chỉ: Đa mặn 10 Đường Đa Mặn 7, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,35m2
+439,"Địa chỉ: 18 Đường Cẩm Bắc 9, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,20m2
+440,"Địa chỉ: 672/5 Đường Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,25m2
+441,"Địa chỉ: K393/6/2 Đường Nguyễn Phước Nguyên, Phường An Khê, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,25m2
+442,"Địa chỉ: Đường Lê Thanh Nghị, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.8 triệu/tháng,25m2
+443,"Địa chỉ: 15 Đường Nguyễn Sơn Trà, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,20m2
+444,"Địa chỉ: Đường Lê Thanh Nghị, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.8 triệu/tháng,25m2
+445,"Địa chỉ: Kiệt 82 Đường Nguyễn Lương Bằng, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,16m2
+446,"Địa chỉ: 248/6 Đường Cách Mạng Tháng Tám, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,20m2
+447,"Địa chỉ: Đường Lê Vĩnh Huy, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,30m2
+448,"Địa chỉ: Đường Bàu Gia Thượng 1, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,25m2
+449,"Địa chỉ: 129/9 Đường Ngũ Hành Sơn, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",3 triệu/tháng,25m2
+450,"Địa chỉ: Đường Bắc Sơn, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,25m2
+451,"Địa chỉ: 63/9/2 Đường Phạm Văn Nghị, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",750.000 đồng/tháng,75m2
+452,"Địa chỉ: 30 Đường Phan Thúc Duyện, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1 triệu/tháng,20m2
+453,"Địa chỉ: 82 Đường Nguyễn Thúy, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,20m2
+454,"Địa chỉ: 523/H5 Đường Cách Mạng Tháng Tám, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.6 triệu/tháng,25m2
+455,"Địa chỉ: Đường Nam Sơn 3, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,20m2
+456,"Địa chỉ: B1 Hồng Phước Đường số 10, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.6 triệu/tháng,25m2
+457,"Địa chỉ: Đường Huỳnh Thị Bảo Hòa, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,25m2
+458,"Địa chỉ: 606 - 608 Đường Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",3 triệu/tháng,20m2
+459,"Địa chỉ: 19 Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,20m2
+460,"Địa chỉ: Đường Trần Phú, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",5 triệu/tháng,50m2
+461,"Địa chỉ: 68/35/2 Đường Dương Khuê, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",3 triệu/tháng,30m2
+462,"Địa chỉ: K07/03 H1050 Đường Ngô Quyền, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng",3 triệu/tháng,20m2
+463,"Địa chỉ: 164 Phố Phan Đăng Lưu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,20m2
+464,"Địa chỉ: 420/1 Đường Lê Văn Hiến, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2.3 triệu/tháng,20m2
+465,"Địa chỉ: Kiệt 79 Đường Dũng Sĩ Thanh Khê, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",3 triệu/tháng,28m2
+466,"Địa chỉ: K105/20 Đường Nguyễn Tri Phương, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,15m2
+467,"Địa chỉ: 464 Đường Trường Chinh, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,12m2
+468,"Địa chỉ: 14 thanh tân Đường Trần Cao Vân, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",2.2 triệu/tháng,18m2
+469,"Địa chỉ: Phường Hòa Thọ Tây, Quận Cẩm Lệ, Đà Nẵng",800.000 đồng/tháng,18m2
+470,"Địa chỉ: 17 Đường Trần Huy Liệu, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.7 triệu/tháng,25m2
+471,"Địa chỉ: 48/23 Đường Phan Châu Trinh, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",3.7 triệu/tháng,55m2
+472,"Địa chỉ: 80/1 Đường Tô Hiệu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,16m2
+473,"Địa chỉ: k85/4 Đường Nguyễn Như Hạnh, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,16m2
+474,"Địa chỉ: Đường Nguyễn Đức Thiệu, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,25m2
+475,"Địa chỉ: Đường Phú Thạnh 10, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,15m2
+476,"Địa chỉ: 10 Đường Giang Châu 1, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2.2 triệu/tháng,30m2
+477,"Địa chỉ: K70/129 Đường Bùi Tá Hán, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",3 triệu/tháng,53m2
+478,"Địa chỉ: k41/6 Đường Nguyễn Chí Thanh, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,25m2
+479,"Địa chỉ: 19 Đường Lỗ Giáng 19, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,28m2
+480,"Địa chỉ: 15/6 Đường Trần Xuân Lê, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",1.8 triệu/tháng,26m2
+481,"Địa chỉ: 01 Đường An Thượng 24, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",4 triệu/tháng,35m2
+482,"Địa chỉ: 606 Đường Trường Chinh, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,15m2
+483,"Địa chỉ: 07 Đường Phần Lăng 16, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,20m2
+484,"Địa chỉ: 28 Bàu Trảng 4 Đường Bàu Trảng 5, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",2.3 triệu/tháng,20m2
+485,"Địa chỉ: Đường Nguyễn Tất Thành, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",1.7 triệu/tháng,15m2
+486,"Địa chỉ: K1/40 Đường Hoàng Văn Thái, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",900.000 đồng/tháng,16m2
+487,"Địa chỉ: Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",1.1 triệu/tháng,16m2
+488,"Địa chỉ: 156 Đường Lê Đình, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",6 triệu/tháng,20m2
+489,"Địa chỉ: 388/2 Đường Núi Thành, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",3.5 triệu/tháng,30m2
+490,"Địa chỉ: 398 Đường Kinh Dương Vương, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.1 triệu/tháng,15m2
+491,"Địa chỉ: 50 Đường Nguyễn Chánh, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,50m2
+492,"Địa chỉ: 22 Đường Quang Thành 1, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,25m2
+493,"Địa chỉ: 748/9 Đường Trần Cao Vân, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,20m2
+494,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.7 triệu/tháng,20m2
+495,"Địa chỉ: 146 Đường Bùi Vịnh, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,18m2
+496,"Địa chỉ: kiệt 640/53 Đường Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,17m2
+497,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.5 triệu/tháng,20m2
+498,"Địa chỉ: Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng",1.5 triệu/tháng,11m2
+499,"Địa chỉ: K454 Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,20m2
+500,"Địa chỉ: 31 Đường Bàu Vàng 5, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.6 triệu/tháng,18m2
+501,"Địa chỉ: Đường Mẹ Hiền, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,19m2
+502,"Địa chỉ: Đường Võ Duy Ninh, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng",2 triệu/tháng,24m2
+503,"Địa chỉ: Đường Bình Hòa 10, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.3 triệu/tháng,25m2
+504,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.2 triệu/tháng,29m2
+505,"Địa chỉ: k98/01/06 Đường Châu Thượng Văn, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,16m2
+506,"Địa chỉ: 10/10 Đường Nguyễn Trường Tộ, Phường Nam Dương, Quận Hải Châu, Đà Nẵng",1.2 triệu/tháng,12m2
+507,"Địa chỉ: 114 Đường Hoàng Đình Ái, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,30m2
+508,"Địa chỉ: 201 Đường Tô Hiệu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,15m2
+509,"Địa chỉ: 33 Đường Hoàng Xuân Nhị, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",3.5 triệu/tháng,25m2
+510,"Địa chỉ: 32 Đường Trương Định, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng",1.5 triệu/tháng,20m2
+511,"Địa chỉ: Đường Trần Văn Trà, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,25m2
+512,"Địa chỉ: 42 Đường Mai Dị, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,25m2
+513,"Địa chỉ: Đường số 4, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",2.3 triệu/tháng,32m2
+514,"Địa chỉ: 61 Đường Trần Đình Tri, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,25m2
+515,"Địa chỉ: 18/3 Đường Nguyễn Đức An, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng",2.7 triệu/tháng,30m2
+516,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,20m2
+517,"Địa chỉ: Đường Nhơn Hòa 5, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,15m2
+518,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.8 triệu/tháng,18m2
+519,"Địa chỉ: K191/29 Phố Đỗ Quang, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,25m2
+520,"Địa chỉ: K64/37 Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,35m2
+521,"Địa chỉ: 108a Đường Nguyễn Phong Sắc, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,19m2
+522,"Địa chỉ: 122/32/1 Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,10m2
+523,"Địa chỉ: 122/32 Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,15m2
+524,"Địa chỉ: K105/20 Nguyễn Tri Phương Đường Nguyễn Tri Phương, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,12m2
+525,"Địa chỉ: 463 Đường Hải Phòng, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",1.1 triệu/tháng,40m2
+526,"Địa chỉ: 32 Đường Nại Hiên Đông 11, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",2.3 triệu/tháng,23m2
+527,"Địa chỉ: 45 Đường Điện Biên Phủ, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,40m2
+528,"Địa chỉ: 08 Đường Trung Nghĩa 7, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.5 triệu/tháng,35m2
+529,"Địa chỉ: k28 Đường Ỷ Lan Nguyên Phi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",1.2 triệu/tháng,20m2
+530,"Địa chỉ: 137 Đường Nguyễn Phước Nguyên, Phường An Khê, Quận Thanh Khê, Đà Nẵng",1.7 triệu/tháng,13m2
+531,"Địa chỉ: Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.3 triệu/tháng,30m2
+532,"Địa chỉ: Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,20m2
+533,"Địa chỉ: 266/2 Đường Dương Đình Nghệ, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",4 triệu/tháng,25m2
+534,"Địa chỉ: Đường Ngũ Hành Sơn, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.3 triệu/tháng,16m2
+535,"Địa chỉ: Đường Nguyễn Đức Thiệu, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,25m2
+536,"Địa chỉ: 1041 Đường Nguyễn Tất Thành, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",1.7 triệu/tháng,15m2
+537,"Địa chỉ: 99A Đường Thanh Long, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",3.2 triệu/tháng,39m2
+538,"Địa chỉ: 162 Đường Hồ Tùng Mậu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,20m2
+539,"Địa chỉ: 27 Phố Nguyễn Khắc Nhu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,25m2
+540,"Địa chỉ: K33B/12 Đường Cao Thắng, Phường Hải Châu II, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,35m2
+541,"Địa chỉ: Đường An Dương Vương, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,20m2
+542,"Địa chỉ: Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",3 triệu/tháng,30m2
+543,"Địa chỉ: 04 Phố Nguyễn Xí, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,25m2
+544,"Địa chỉ: k14/2 Đường Nam Sơn, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,17m2
+545,"Địa chỉ: 164/78 Đường Nguyễn Chánh, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1 triệu/tháng,20m2
+546,"Địa chỉ: Đường Lâm Hoành, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",1.8 triệu/tháng,16m2
+547,"Địa chỉ: Phố Trần Đại Nghĩa, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",700.000 đồng/tháng,14m2
+548,"Địa chỉ: 25 Đường Nguyễn Khang, Phường An Khê, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,25m2
+549,"Địa chỉ: K123/H83/21 Đường Cù Chính Lan, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",1.7 triệu/tháng,16m2
+550,"Địa chỉ: Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,20m2
+551,"Địa chỉ: 76 Đường Nguyễn Đức Thiệu, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",2.2 triệu/tháng,25m2
+552,"Địa chỉ: 41 Đường Hóa Mỹ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,20m2
+553,"Địa chỉ: K55/14 NGŨ HÀNH S Đường Ngũ Hành Sơn, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.7 triệu/tháng,20m2
+554,"Địa chỉ: 19 Đường Ngô Thế Lân, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",2.8 triệu/tháng,35m2
+555,"Địa chỉ: Đường Vân Đồn, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",1.2 triệu/tháng,4m2
+556,"Địa chỉ: 58 Đường Lê Thiết Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,25m2
+557,"Địa chỉ: Kiệt 266/2 Đường Dương Đình Nghệ, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",4.5 triệu/tháng,25m2
+558,"Địa chỉ: 15 Đường Phạm Văn Đồng, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng",3 triệu/tháng,25m2
+559,"Địa chỉ: K5/3 Đường Trần Huy Liệu, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.7 triệu/tháng,23m2
+560,"Địa chỉ: Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,15m2
+561,"Địa chỉ: 117a-117b Đường Phạm Viết Chánh, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.7 triệu/tháng,25m2
+562,"Địa chỉ: Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,25m2
+563,"Địa chỉ: Đường Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+564,"Địa chỉ: K5/3 Đường Trần Huy Liệu, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,23m2
+565,"Địa chỉ: 1 Đường Chơn Tâm 6, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",2.3 triệu/tháng,35m2
+566,"Địa chỉ: Đường Hoàng Văn Thái, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,25m2
+567,"Địa chỉ: Đường Chơn Tâm, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",2.3 triệu/tháng,35m2
+568,"Địa chỉ: Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,15m2
+569,"Địa chỉ: Đường Hà Khê, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",1.2 triệu/tháng,15m2
+570,"Địa chỉ: 32 Đường Hoàng Thúc Trâm, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.2 triệu/tháng,16m2
+571,"Địa chỉ: Đường Dương Vân Nga, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",1.5 triệu/tháng,16m2
+572,"Địa chỉ: 65/5 Đường Đinh Tiên Hoàng, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,20m2
+573,"Địa chỉ: Đường Võ Chí Công, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",4 triệu/tháng,32m2
+574,"Địa chỉ: Đường Võ Duy Ninh, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng",4.5 triệu/tháng,120m2
+575,"Địa chỉ: Đường Nguyễn Duy Trinh, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,12m2
+576,"Địa chỉ: Đường Hoàng Văn Thái, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.8 triệu/tháng,30m2
+577,"Địa chỉ: 65/5 Đường Đinh Tiên Hoàng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",2.7 triệu/tháng,25m2
+578,"Địa chỉ: Đường Nguyễn Thiện Kế, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",1.8 triệu/tháng,13m2
+579,"Địa chỉ: 365 Đường Yên Khê 2, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,20m2
+580,"Địa chỉ: K301/28 Đường Nguyễn Tri Phương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,20m2
+581,"Địa chỉ: 95 Phố Phan Đăng Lưu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.6 triệu/tháng,20m2
+582,"Địa chỉ: Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",2.5 triệu/tháng,21m2
+583,"Địa chỉ: Đường Minh Mạng, Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,30m2
+584,"Địa chỉ: 65/5 Đường Đinh Tiên Hoàng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",4 triệu/tháng,25m2
+585,"Địa chỉ: Đường Cù Chính Lan, Phường An Khê, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,20m2
+586,"Địa chỉ: K158 Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",3 triệu/tháng,300m2
+587,"Địa chỉ: Kiệt 304 Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",1.7 triệu/tháng,20m2
+588,"Địa chỉ: K550 Đường Điện Biên Phủ, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",3 triệu/tháng,25m2
+589,"Địa chỉ: Đường Nguyễn Công Trứ, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng kiệt 94",3.5 triệu/tháng,24m2
+590,"Địa chỉ: 79/10 Đường Cách Mạng Tháng Tám, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,25m2
+591,"Địa chỉ: 09/17 Đường Trần Huấn, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.9 triệu/tháng,32m2
+592,"Địa chỉ: Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,21m2
+593,"Địa chỉ: Phố Đỗ Quang, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",3.5 triệu/tháng,25m2
+594,"Địa chỉ: Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.2 triệu/tháng,26m2
+595,"Địa chỉ: K13 Đường ĐT 605, Xã Hòa Tiến, Huyện Hoà Vang, Đà Nẵng",650.000 đồng/tháng,24m2
+596,"Địa chỉ: Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,20m2
+597,"Địa chỉ: K43/1A Đường Mẹ Nhu, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,20m2
+598,"Địa chỉ: Đường Đống Đa, Phường Thuận Phước, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,20m2
+599,"Địa chỉ: 77 Đường Lê Văn Hiến, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,25m2
+600,"Địa chỉ: 4/9 Đường Duy Tân, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",4.5 triệu/tháng,30m2
+601,"Địa chỉ: 38 Đường Văn Cao, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",3.2 triệu/tháng,25m2
+602,"Địa chỉ: k382/H37/11 Đường Núi Thành, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,18m2
+603,"Địa chỉ: 3 Phố Đỗ Quang, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",3 triệu/tháng,20m2
+604,"Địa chỉ: 8 Đường Hồ Xuân Hương, Quận Sơn Trà, Đà Nẵng",2.8 triệu/tháng,50m2
+605,"Địa chỉ: Đường Nguyễn Tri Phương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,12m2
+606,"Địa chỉ: 35 Đường Đào Cam Mộc, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.8 triệu/tháng,75m2
+607,"Địa chỉ: Phố Đốc Ngữ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",1.6 triệu/tháng,15m2
+608,"Địa chỉ: 60 Đường Tiểu La, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",4.9 triệu/tháng,30m2
+609,"Địa chỉ: K152/40c Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",1.9 triệu/tháng,14m2
+610,"Địa chỉ: K90/31/1 Đường Đống Đa, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,12m2
+611,"Địa chỉ: 65 Đường Hoàng Văn Thụ, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng",1.8 triệu/tháng,18m2
+612,"Địa chỉ: 108a Đường Nguyễn Phong Sắc, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.2 triệu/tháng,16m2
+613,"Địa chỉ: Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,30m2
+614,"Địa chỉ: Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.6 triệu/tháng,18m2
+615,"Địa chỉ: Phường Hòa Liên, Huyện Hoà Vang, Đà Nẵng",1.3 triệu/tháng,21m2
+616,"Địa chỉ: K23 Đường Ngô Gia Tự, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",1.6 triệu/tháng,20m2
+617,"Địa chỉ: Đường Khuê Mỹ Đông 1, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2.8 triệu/tháng,30m2
+618,"Địa chỉ: 81 Đường Ngô Thế Lân, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,20m2
+619,"Địa chỉ: Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,15m2
+620,"Địa chỉ: 141 Đường Đặng Huy Trứ, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,20m2
+621,"Địa chỉ: 02 Đường Nguyễn Dữ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.7 triệu/tháng,27.5m2
+622,"Địa chỉ: 32 Đường Nại Hiên Đông 11, Phường Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",2.5 triệu/tháng,20m2
+623,"Địa chỉ: Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,22m2
+624,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.8 triệu/tháng,18m2
+625,"Địa chỉ: Đường Yên Khê 2, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,17m2
+626,"Địa chỉ: 14 Đường Trung Nghĩa 6, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.3 triệu/tháng,15m2
+627,"Địa chỉ: 35/194 Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",1.3 triệu/tháng,15m2
+628,"Địa chỉ: Đường Ngũ Hành Sơn, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,100m2
+629,"Địa chỉ: 194 Đường Nguyễn Phước Tần, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",2.4 triệu/tháng,25m2
+630,"Địa chỉ: Đường Lê Huy Cát, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",1.8 triệu/tháng,18m2
+631,"Địa chỉ: K267/14 Đường Ngô Quyền, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng",2 triệu/tháng,25m2
+632,"Địa chỉ: K94 Đường Nguyễn Công Trứ, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng",3.9 triệu/tháng,24m2
+633,"Địa chỉ: 30 Đường Trần Văn Dư, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2.3 triệu/tháng,18m2
+634,"Địa chỉ: Đường Đá Mọc 5, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,25m2
+635,"Địa chỉ: 09 Đường Ung Văn Khiêm, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",4 triệu/tháng,24m2
+636,"Địa chỉ: 231 Đường Lê Thanh Nghị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,30m2
+637,"Địa chỉ: K131 H37/50 Đường Lý Thái Tổ, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",1.6 triệu/tháng,18m2
+638,"Địa chỉ: K 196/50A Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",3 triệu/tháng,25m2
+639,"Địa chỉ: 194/34 Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",2.8 triệu/tháng,23m2
+640,"Địa chỉ: 231 Đường Lê Thanh Nghị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+641,"Địa chỉ: 220/3 Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,20m2
+642,"Địa chỉ: Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,20m2
+643,"Địa chỉ: tổ 53 Đường Hồ Tùng Mậu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",600.000 đồng/tháng,14m2
+644,"Địa chỉ: 36 Đường Hà Văn Trí, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,16m2
+645,"Địa chỉ: 218 Đường Lý Nhân Tông, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,19m2
+646,"Địa chỉ: Đường Lê Thanh Nghị, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",3.5 triệu/tháng,35m2
+647,"Địa chỉ: Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",1.2 triệu/tháng,10m2
+648,"Địa chỉ: Đậu Quang Lĩnh, KĐTST Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,18m2
+649,"Địa chỉ: 79 Đường Nguyễn Sơn, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,15m2
+650,"Địa chỉ: 41 Đường Thanh Vinh 4, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.1 triệu/tháng,16m2
+651,"Địa chỉ: K147/19 Đường Nguyễn Tri Phương, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",1.1 triệu/tháng,45m2
+652,"Địa chỉ: Đường Hàn Thuyên, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.3 triệu/tháng,20m2
+653,"Địa chỉ: Đường Trần Văn Dư, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.2 triệu/tháng,20m2
+654,"Địa chỉ: 78/2b Đường Lê Thanh Nghị, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",4 triệu/tháng,30m2
+655,"Địa chỉ: K95/21 Phố Bà Huyện Thanh Quan, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2.2 triệu/tháng,45m2
+656,"Địa chỉ: Đường Ngô Chân Lưu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,30m2
+657,"Địa chỉ: Đường Trần Cao Vân, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,20m2
+658,"Địa chỉ: Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2.3 triệu/tháng,16m2
+659,"Địa chỉ: 382 Đường Tôn Đản, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,25m2
+660,"Địa chỉ: Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,26m2
+661,"Địa chỉ: K131 H37/50 Đường Lý Thái Tổ, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",1.8 triệu/tháng,20m2
+662,"Địa chỉ: Đường Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",2.2 triệu/tháng,20m2
+663,"Địa chỉ: Đường Nguyễn Xuân Hữu, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",3.5 triệu/tháng,30m2
+664,"Địa chỉ: 22 Đường Đào Cam Mộc, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,12m2
+665,"Địa chỉ: 09 Đường Mỹ An 20, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",4.5 triệu/tháng,48m2
+666,"Địa chỉ: 382 Đường Tôn Đản, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,350m2
+667,"Địa chỉ: 264/16 Đường Tô Hiệu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,10m2
+668,"Địa chỉ: Đường Nguyễn Khoa Chiêm, Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,25m2
+669,"Địa chỉ: 55 Đường Mỹ An 1, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",3 triệu/tháng,18m2
+670,"Địa chỉ: 156 Đường Nguyễn Huy Tưởng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",4 triệu/tháng,140m2
+671,"Địa chỉ: Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,25m2
+672,"Địa chỉ: 70 Đường Lưu Trọng Lư, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",5 triệu/tháng,30m2
+673,"Địa chỉ: Đường Lê Hồng Phong, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng",4.5 triệu/tháng,38m2
+674,"Địa chỉ: Đường Trần Văn Giáp, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,25m2
+675,"Địa chỉ: Đường Chơn Tâm 2, Quận Liên Chiểu, Đà Nẵng",2.2 triệu/tháng,20m2
+676,"Địa chỉ: Đường Hàm Tử, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2.7 triệu/tháng,15m2
+677,"Địa chỉ: Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",1.8 triệu/tháng,15m2
+678,"Địa chỉ: 91 Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",3.5 triệu/tháng,25m2
+679,"Địa chỉ: 05 Đường Trương Quang Giao, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,20m2
+680,"Địa chỉ: K218 Đường Hoàng Văn Thái, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.8 triệu/tháng,25m2
+681,"Địa chỉ: 79 Đường Ngô Thì Sĩ, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",3 triệu/tháng,20m2
+682,"Địa chỉ: Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",3 triệu/tháng,19m2
+683,"Địa chỉ: Phố Đỗ Quang, Phường An Khê, Quận Thanh Khê, Đà Nẵng",4.5 triệu/tháng,25m2
+684,"Địa chỉ: 89/5 Phố Lê Văn Hưu, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",3.5 triệu/tháng,20m2
+685,"Địa chỉ: Đường Phạm Văn Bạch, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",5.5 triệu/tháng,25m2
+686,"Địa chỉ: Đường Nguyễn Đình Chiểu, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2.9 triệu/tháng,27m2
+687,"Địa chỉ: K72/12 Đường Lê Cơ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",3.8 triệu/tháng,28m2
+688,"Địa chỉ: 171 Đường Nguyễn Thiện Kế, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",4.8 triệu/tháng,30m2
+689,"Địa chỉ: K113H23/21 Đường Nguyễn Chí Thanh, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",5 triệu/tháng,34m2
+690,"Địa chỉ: 42/8 Đường Hàm Tử, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",3 triệu/tháng,14m2
+691,"Địa chỉ: K20/1 Đường Phạm Như Xương, Phường Hòa Hiệp Nam, Quận Liên Chiểu, Đà Nẵng",3 triệu/tháng,30m2
+692,"Địa chỉ: K94/5/11 Đường Nguyễn Công Trứ, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng",4.5 triệu/tháng,30m2
+693,"Địa chỉ: Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",3.5 triệu/tháng,34m2
+694,"Địa chỉ: 171 Đường Nguyễn Thiện Kế, Phường An Hải Đông, Quận Sơn Trà, Đà Nẵng",3.5 triệu/tháng,20m2
+695,"Địa chỉ: Đối diện 190 Cao Bá Đạt Đường Phạm Hùng, Phường Hòa Châu, Huyện Hoà Vang, Đà Nẵng",1.6 triệu/tháng,21m2
+696,"Địa chỉ: 87 Đường Thành Thái, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,16m2
+697,"Địa chỉ: Đường Võ Chí Công, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,50m2
+698,"Địa chỉ: 51/5 Đường Tôn Đản, Phường An Khê, Quận Thanh Khê, Đà Nẵng",2.9 triệu/tháng,23m2
+699,"Địa chỉ: 56A Đường Hoàng Sĩ Khải, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",3.7 triệu/tháng,20m2
+700,"Địa chỉ: 104 Đường Phạm Nhữ Tăng, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",4 triệu/tháng,30m2
+701,"Địa chỉ: Đường Lê Quang Sung, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,11m2
+702,"Địa chỉ: Đường Hà Huy Tập, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,5m2
+703,"Địa chỉ: Đường Hoàng Văn Thái, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,14m2
+704,"Địa chỉ: 12 Đặng Chất, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.3 triệu/tháng,15m2
+705,"Địa chỉ: Số nhà 18 Đường Chơn Tâm 3, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,15m2
+706,"Địa chỉ: 150/7 Đường Nguyễn Hoàng, Quận Thanh Khê, Đà Nẵng",1.7 triệu/tháng,14m2
+707,"Địa chỉ: K183 Đường Phan Thanh, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,15m2
+708,"Địa chỉ: Đường Trần Phú, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng",2.2 triệu/tháng,15m2
+709,"Địa chỉ: Đường Nguyễn Công Hoan, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",1.4 triệu/tháng,20m2
+710,"Địa chỉ: 129 Vũ Đình Liên gần Đường Võ Chí Công, Quận Cẩm Lệ, Đà Nẵng",2.2 triệu/tháng,25m2
+711,"Địa chỉ: Đường Ngô Quyền, Quận Sơn Trà, Đà Nẵng",2 triệu/tháng,25m2
+712,"Địa chỉ: Đường Phan Huy Ích, Phường An Hải Tây, Quận Sơn Trà, Đà Nẵng",3.5 triệu/tháng,30m2
+713,"Địa chỉ: Đường Cù Chính Lan, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",1 triệu/tháng,16m2
+714,"Địa chỉ: Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",2.2 triệu/tháng,30m2
+715,"Địa chỉ: Đường Thanh Tịnh, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",4.3 triệu/tháng,32m2
+716,"Địa chỉ: Quận Hải Châu, Đà Nẵng",2 triệu/tháng,15m2
+717,"Địa chỉ: Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,20m2
+718,"Địa chỉ: Đường Nguyễn Nghiêm, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",1.5 triệu/tháng,20m2
+719,"Địa chỉ: Số 20 Đường Huỳnh Ngọc Huệ, Phường An Khê, Quận Thanh Khê, Đà Nẵng",3.5 triệu/tháng,30m2
+720,"Địa chỉ: Đường Chơn Tâm 6, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",2.3 triệu/tháng,35m2
+721,"Địa chỉ: 20 Đường Trung Nghĩa 5, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.3 triệu/tháng,18m2
+722,"Địa chỉ: Đường Nguyễn Lương Bằng, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,20m2
+723,"Địa chỉ: 17 Đường Tôn Thất Tùng, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,15m2
+724,"Địa chỉ: Tổ 45, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng, song song đường Hòa An 25",3 triệu/tháng,60m2
+725,"Địa chỉ: 81, Đường Ngô Thế Lân, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,20m2
+726,"Địa chỉ: K131 h37/50 Đường Lý Thái Tổ, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",1.8 triệu/tháng,15m2
+727,"Địa chỉ: Đường Ngô Thế Lân, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,20m2
+728,"Địa chỉ: Đường Ngô Sĩ Liên, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.6 triệu/tháng,18m2
+729,"Địa chỉ: k204/7 Đường Trường Chinh, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,20m2
+730,"Địa chỉ: Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,40m2
+731,"Địa chỉ: Đường Võ Chí Công, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",4 triệu/tháng,20m2
+732,"Địa chỉ: K113H23/21 Đường Nguyễn Chí Thanh, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",5 triệu/tháng,34m2
+733,"Địa chỉ: Đường Trần Đức Thảo, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,15m2
+734,"Địa chỉ: Đường Ngô Sĩ Liên, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.6 triệu/tháng,18m2
+735,"Địa chỉ: 142/8A Đường Lê Văn Hiến, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",6 triệu/tháng,40m2
+736,"Địa chỉ: Đường Trường Chinh, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,20m2
+737,"Địa chỉ: K16/19 Đường Ngô Gia Tự, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,20m2
+738,"Địa chỉ: Số 87, Đường Thành Thái, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.7 triệu/tháng,16m2
+739,"Địa chỉ: Đường An Tư Công Chúa, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.3 triệu/tháng,40m2
+740,"Địa chỉ: Đường An Tư Công Chúa, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1.3 triệu/tháng,45m2
+741,"Địa chỉ: Phố Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,24m2
+742,"Địa chỉ: 38 - 40Lương Định Của, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.2 triệu/tháng,20m2
+743,"Địa chỉ: Trần Văn Giảng, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",2.3 triệu/tháng,23m2
+744,"Địa chỉ: Đường Đinh Tiên Hoàng, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",3.3 triệu/tháng,20m2
+745,"Địa chỉ: 39/10 Đường Cù Chính Lan, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",1.5 triệu/tháng,13m2
+746,"Địa chỉ: Đường Châu Văn Liêm, Quận Hải Châu, Đà Nẵng",1.7 triệu/tháng,22m2
+747,"Địa chỉ: 240/4 Đường Núi Thành, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,20m2
+748,"Địa chỉ: 281 Đường Trường Chinh, Phường An Khê, Quận Thanh Khê, Đà Nẵng",3 triệu/tháng,25m2
+749,"Địa chỉ: 16 Đường Nguyễn Minh Không, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,16m2
+750,"Địa chỉ: Đường Phạm Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,20m2
+751,"Địa chỉ: Đường Mỹ Đa Đông 3, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2.5 triệu/tháng,18m2
+752,"Địa chỉ: Đường Nguyễn Xuân Khoát, Quận Sơn Trà, Đà Nẵng",7.5 triệu/tháng,30m2
+753,"Địa chỉ: Đường Núi Thành, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.3 triệu/tháng,15m2
+754,"Địa chỉ: Đường Trần Hoành, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",3.5 triệu/tháng,30m2
+755,"Địa chỉ: Quận Liên Chiểu, Đà Nẵng",1.4 triệu/tháng,20m2
+756,"Địa chỉ: 1E Đỗ Thúc Tịnh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",3.2 triệu/tháng,30m2
+757,"Địa chỉ: 19 Đường Hàn Thuyên, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.2 triệu/tháng,20m2
+758,"Địa chỉ: Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,20m2
+759,"Địa chỉ: Đường Thành Vinh 12, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,20m2
+760,"Địa chỉ: 35 Đường Tạ Hiện, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",3.5 triệu/tháng,25m2
+761,"Địa chỉ: Đường Hồ Sỹ Dương, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",2.2 triệu/tháng,25m2
+762,"Địa chỉ: Đường Trần Hoành, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2.5 triệu/tháng,24m2
+763,"Địa chỉ: Đường Trần Nhân Tông, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",2 đồng/tháng,20m2
+764,"Địa chỉ: 67 Lương Định Của, Quận Cẩm Lệ, Đà Nẵng",1.6 triệu/tháng,16m2
+765,"Địa chỉ: Đường Trần Cao Vân, Quận Thanh Khê, Đà Nẵng",1.2 triệu/tháng,20m2
+766,"Địa chỉ: Đường Trần Cao Vân, Quận Thanh Khê, Đà Nẵng",1.2 triệu/tháng,20m2
+767,"Địa chỉ: Đường Ngô Gia Tự, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,20m2
+768,"Địa chỉ: Đường Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",2.4 triệu/tháng,25m2
+769,"Địa chỉ: 172/19 Đường Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",4.2 triệu/tháng,37m2
+770,"Địa chỉ: 302 BÙi Tấn Diên, Khu đô thị Phước Lý, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,15m2
+771,"Địa chỉ: Đường Nguyễn Công Trứ, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",1.7 triệu/tháng,125m2
+772,"Địa chỉ: Đường Nguyễn Xiển, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",7 triệu/tháng,40m2
+773,"Địa chỉ: Đường Điện Biên Phủ, Phường An Khê, Quận Thanh Khê, Đà Nẵng",2.2 triệu/tháng,20m2
+774,"Địa chỉ: Đường Huỳnh Ngọc Huệ, Phường An Khê, Quận Thanh Khê, Đà Nẵng",3.5 triệu/tháng,25m2
+775,"Địa chỉ: Đường Thanh Vinh, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.4 triệu/tháng,17m2
+776,"Địa chỉ: Đường Nguyễn Xuân Hữu, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",3 triệu/tháng,30m2
+777,"Địa chỉ: Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,25m2
+778,"Địa chỉ: 41 Đường Cao Sơn Pháo, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,18m2
+779,"Địa chỉ: 41 Đường Bãi Sậy, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.8 triệu/tháng,18m2
+780,"Địa chỉ: Đường Núi Thành, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,15m2
+781,"Địa chỉ: Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,20m2
+782,"Địa chỉ: Phố Mạc Thị Bưởi, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,20m2
+783,"Địa chỉ: Đường Hoàng Thúc Trâm, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,16m2
+784,"Địa chỉ: Đường Dương Thưởng, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",4 triệu/tháng,25m2
+785,"Địa chỉ: 664 Đường Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",1 triệu/tháng,100m2
+786,"Địa chỉ: 585 Đường Lê Văn Hiến, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",2.5 triệu/tháng,15m2
+787,"Địa chỉ: Đường Hồ Xuân Hương, Phường Khuê Mỹ, Quận Ngũ Hành Sơn, Đà Nẵng",2.6 triệu/tháng,26m2
+788,"Địa chỉ: 642 Ngô Quyền, Quận Sơn Trà, Đà Nẵng",3.9 triệu/tháng,25m2
+789,"Địa chỉ: Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng",3.95 triệu/tháng,40m2
+790,"Địa chỉ: Đường 5, Phường Hòa Hiệp Nam, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,30m2
+791,"Địa chỉ: 16 Đường Dương Văn An, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng",3 triệu/tháng,20m2
+792,"Địa chỉ: K16/19 Đường Ngô Gia Tự, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,22m2
+793,"Địa chỉ: 231 Đường Lê Thanh Nghị, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+794,"Địa chỉ: Đường Hồ Quý Ly, Phường Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",1.8 triệu/tháng,22m2
+795,"Địa chỉ: Đường Nại Hiên Đông 11, Phường Nại Hiên Đông , Quận Sơn Trà, Đà Nẵng",3.4 triệu/tháng,50m2
+796,"Địa chỉ: K16/19 Đường Ngô Gia Tự, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,20m2
+797,"Địa chỉ: 106 Đường Trường Sơn, Phường Hòa Thọ Tây, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,25m2
+798,"Địa chỉ: Đường An Cư 6, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",2400 triệu/tháng,20m2
+799,"Địa chỉ: 294/26 Đường Điện Biên Phủ, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",4.2 triệu/tháng,70m2
+800,"Địa chỉ: Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",2.5 triệu/tháng,32m2
+801,"Địa chỉ: Kiệt 1, Đường Hoàng Văn Thái, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",2 triệu/tháng,40m2
+802,"Địa chỉ: 10 Đường Ngô Xuân Thu, Phường Hòa Hiệp Bắc, Quận Liên Chiểu, Đà Nẵng",600.000 đồng/tháng,16m2
+803,"Địa chỉ: Đường Núi Thành, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.7 triệu/tháng,17m2
+804,"Địa chỉ: Số 01 Đường Vũ Đình Long, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng",4.5 triệu/tháng,20m2
+805,"Địa chỉ: Đường Phạm Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.3 triệu/tháng,15m2
+806,"Địa chỉ: 119 Đường Phạm Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.7 triệu/tháng,25m2
+807,"Địa chỉ: Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,15m2
+808,"Địa chỉ: Đường Hoàng Diệu, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng",2.2 triệu/tháng,20m2
+809,"Địa chỉ: Phố Nguyễn Xí, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",3 triệu/tháng,25m2
+810,"Địa chỉ: Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2 triệu/tháng,20m2
+811,"Địa chỉ: Đường Ngô Xuân Thu, Phường Hòa Hiệp Bắc, Quận Liên Chiểu, Đà Nẵng",600.000 đồng/tháng,18m2
+812,"Địa chỉ: Quận Sơn Trà, Đà Nẵng",2.5 triệu/tháng,20m2
+813,"Địa chỉ: Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,25m2
+814,"Địa chỉ: 19 Đường Hàn Thuyên, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2.4 triệu/tháng,20m2
+815,"Địa chỉ: Đường Hoàng Văn Thái, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.7 triệu/tháng,16m2
+816,"Địa chỉ: 53B Đường Nguyễn Chí Thanh, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng",4 triệu/tháng,20m2
+817,"Địa chỉ: 119 Đường Phạm Hùng, Phường Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",2.2 triệu/tháng,20m2
+818,"Địa chỉ: Quận Hải Châu, Đà Nẵng",1 triệu/tháng,20m2
+819,"Địa chỉ: 56 Đặng Nguyên Cẩn, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,25m2
+820,"Địa chỉ: Đường Lê Độ, K45/H10, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,30m2
+821,"Địa chỉ: K356 H89/60 Đường Hoàng Diệu, Phường Bình Thuận, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,25m2
+822,"Địa chỉ: 329 Đường Nguyễn Hữu Thọ, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",3.5 triệu/tháng,32m2
+823,"Địa chỉ: Đường Thanh Tịnh, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.3 triệu/tháng,15m2
+824,"Địa chỉ: Quận Hải Châu, Đà Nẵng",2 triệu/tháng,20m2
+825,"Địa chỉ: Phố Phạm Sư Mạnh, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,20m2
+826,Địa chỉ: 42 Nước Mặn 5 - phường Khuê Mỹ - quận Ngũ Hành Sơn - Đà Nẵng,3.5 triệu/tháng,20m2
+827,"Địa chỉ: Quận Hải Châu, Đà Nẵng",1 triệu/tháng,20m2
+828,"Địa chỉ: 19 Đường Hàn Thuyên, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,18m2
+829,"Địa chỉ: Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,25m2
+830,"Địa chỉ: Đường Phan Văn Định, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.6 triệu/tháng,30m2
+831,"Địa chỉ: 10 Đinh Liệt, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",1 triệu/tháng,20m2
+832,"Địa chỉ: Đường Hoàng Diệu, Phường Phước Ninh, Quận Hải Châu, Đà Nẵng",5 triệu/tháng,25m2
+833,"Địa chỉ: Đường Hải Phòng, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",1 triệu/tháng,17m2
+834,"Địa chỉ: Đường Đồng Kè, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,25m2
+835,"Địa chỉ: K32/H7/10 Phan Đăng Lưu, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,15m2
+836,"Địa chỉ: Đường Trần Văn Giảng, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,21m2
+837,"Địa chỉ: Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",3.5 triệu/tháng,16m2
+838,"Địa chỉ: Đường An Tư Công Chúa, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",3.5 triệu/tháng,25m2
+839,Địa chỉ: Số 72 đường An Nhơn 1-Sơn Trà-Đà Nẵng,3 triệu/tháng,35m2
+840,"Địa chỉ: 82/83B Đường Nguyễn Lương Bằng, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,16m2
+841,"Địa chỉ: 76 Đường Chu Mạnh Trinh, Quận Hải Châu, Đà Nẵng",1.4 triệu/tháng,16m2
+842,"Địa chỉ: Số 65, Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",4.5 triệu/tháng,20m2
+843,"Địa chỉ: Đường Bàu Hạt 2, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",800.000 đồng/tháng,10m2
+844,"Địa chỉ: 247 Phố Phan Đăng Lưu, Quận Cẩm Lệ, Đà Nẵng",1.8 triệu/tháng,20m2
+845,"Địa chỉ: Đường Tiểu La, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",4.5 triệu/tháng,20m2
+846,"Địa chỉ: Phố Thi Sách, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",2.5 triệu/tháng,35m2
+847,"Địa chỉ: Phố Phó Đức Chính, Phường Mân Thái, Quận Sơn Trà, Đà Nẵng",397.000 đồng/tháng,10m2
+848,"Địa chỉ: Đường Ỷ Lan Nguyên Phi, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",2 triệu/tháng,20m2
+849,"Địa chỉ: Số 41, Đường Trần Huy Liệu, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.7 triệu/tháng,42m2
+850,"Địa chỉ: 100-Đường Nguyễn Huy Tưởng, Quận Liên Chiểu, Đà Nẵng",1.4 triệu/tháng,20m2
+851,"Địa chỉ: Đường Cù Chính Lan, Phường An Khê, Quận Thanh Khê, Đà Nẵng",4 triệu/tháng,30m2
+852,"Địa chỉ: 24 Đường An Thượng 1, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",2.8 triệu/tháng,15m2
+853,"Địa chỉ: 94 Đường Xuân Thủy, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",1.7 triệu/tháng,18m2
+854,"Địa chỉ: Kiệt Đường Huỳnh Ngọc Huệ, Quận Thanh Khê, Đà Nẵng",4 triệu/tháng,60m2
+855,"Địa chỉ: Đường Cao Sơn 8 Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",2 triệu/tháng,16m2
+856,"Địa chỉ: Đường Chơn Tâm3, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.4 triệu/tháng,15m2
+857,"Địa chỉ: Nguyễn Đăng Giai, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng",1 triệu/tháng,600m2
+858,"Địa chỉ: 989- Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,25m2
+859,"Địa chỉ: 989 Nguyễn Tất Thành, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,25m2
+860,"Địa chỉ: Phạm Viết Chánh, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,21m2
+861,"Địa chỉ: Đồng Kè, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",800.000 đồng/tháng,10m2
+862,"Địa chỉ: Phan Trọng Tuệ, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1.6 triệu/tháng,16m2
+863,"Địa chỉ: 63 Lương Định Của, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",Thỏa thuận,50m2
+864,"Địa chỉ: 62 Phan Trọng Tuệ, Phường Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",1.6 triệu/tháng,16m2
+865,"Địa chỉ: Nguyễn Minh Chấn, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",700.000 đồng/tháng,12m2
+866,"Địa chỉ: 640-Trưng Nữ Vương, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",1.2 triệu/tháng,15m2
+867,"Địa chỉ: Thái Thị Bôi, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",1.9 triệu/tháng,25m2
+868,"Địa chỉ: K131 Lý Thái Tổ, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",Thỏa thuận,16m2
+869,"Địa chỉ: 123/127 Cù Chính Lan, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,25m2
+870,"Địa chỉ: Loseby, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",3 triệu/tháng,22m2
+871,"Địa chỉ: Xuân Đán 2, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",Thỏa thuận,30m2
+872,"Địa chỉ: 45 Hà Đặc, Phường Phước Mỹ, Quận Sơn Trà, Đà Nẵng",3.5 triệu/tháng,20m2
+873,"Địa chỉ: Đường 5, Phường Hòa Hiệp Nam, Quận Liên Chiểu, Đà Nẵng",900.000 đồng/tháng,15m2
+874,"Địa chỉ: Phường Hòa Quý, Quận Ngũ Hành Sơn, Đà Nẵng",700.000 đồng/tháng,30m2
+875,"Địa chỉ: Phan Văn Định, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",1.500 đồng/tháng,30m2
+876,"Địa chỉ: Võ Chí Công, Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",600.000 đồng/tháng,12m2
+877,"Địa chỉ: Ca Văn Thỉnh, Phường Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",1 triệu/tháng,10m2
+878,"Địa chỉ: K379/74 Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",Thỏa thuận,30m2
+879,"Địa chỉ: Lô 05, B1.1 Lê Đức Thọ, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng",2.95 triệu/tháng,18m2
+880,"Địa chỉ: k379/74 Trần Cao Vân, Phường Xuân Hà, Quận Thanh Khê, Đà Nẵng",800.000 đồng/tháng,30m2
+881,"Địa chỉ: Quận Liên Chiểu, Đà Nẵng",500.000 đồng/tháng,20m2
+882,"Địa chỉ: Quận Liên Chiểu, Đà Nẵng",5 triệu/tháng,20m2
+883,"Địa chỉ: Nguyễn Du, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",3 triệu/tháng,30m2
+884,"Địa chỉ: Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",900.000 đồng/tháng,0m2
+885,"Địa chỉ: Lê Duy Đình, Phường Chính Gián, Quận Thanh Khê, Đà Nẵng",Thỏa thuận,20m2
+886,"Địa chỉ: Phong Bắc 1, Phường Hòa Thọ Đông, Quận Cẩm Lệ, Đà Nẵng",1.1 triệu/tháng,22m2
+887,"Địa chỉ: Phan Văn Định, Quận Liên Chiểu, Đà Nẵng",650.000 đồng/tháng,20m2
+888,"Địa chỉ: Trần Cao Vân, Hải Châu II, Quận Hải Châu, Đà Nẵng",Thỏa thuận,9m2
+889,"Địa chỉ: Đỗ Nhuận, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",2.2 triệu/tháng,20m2
+890,"Địa chỉ: 2/9, Phường Bình Hiên, Quận Hải Châu, Đà Nẵng",Thỏa thuận,12m2
+891,"Địa chỉ: Tôn Đức Thắng, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1 triệu/tháng,23m2
+892,"Địa chỉ: Đường 2/9, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",1 triệu/tháng,20m2
+893,"Địa chỉ: Nguyễn Lương Bằng, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",800.000 đồng/tháng,20m2
+894,"Địa chỉ: SỐ 10, Đinh Liệt, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",700.000 đồng/tháng,15m2
+895,"Địa chỉ: Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",3 triệu/tháng,25m2
+896,"Địa chỉ: Nguyễn Lương Bằng, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",600.000 đồng/tháng,15m2
+897,"Địa chỉ: Tô Ngọc Vân, Phường Tân Chính, Quận Thanh Khê, Đà Nẵng",Thỏa thuận,40m2
+898,"Địa chỉ: Phạm Văn Nghị, Phường Thạc Gián, Quận Thanh Khê, Đà Nẵng",2 triệu/tháng,30m2
+899,"Địa chỉ: Hà Huy Tập, Quận Thanh Khê, Đà Nẵng",1 triệu/tháng,30m2
+900,"Địa chỉ: 12/2 Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",600.000 đồng/tháng,25m2
+901,"Địa chỉ: Nguyễn Hữu Thọ, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",2.5 triệu/tháng,25m2
+902,"Địa chỉ: Số 72 đường An Nhơn 1, Sơn Trà-Đà Nẵng",1.3 triệu/tháng,15m2
+903,"Địa chỉ: 05 Nguyễn Xí, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.5 triệu/tháng,21m2
+904,"Địa chỉ: Phạm Như Xương, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1 triệu/tháng,20m2
+905,"Địa chỉ: K30/14 Bạch Đằng, Thạch Thang, Hải Châu, Đà Nẵng",2 triệu/tháng,30m2
+906,"Địa chỉ: 136/15 Trần Cao Vân, Phường Tam Thuận, Quận Thanh Khê, Đà Nẵng",1.1 triệu/tháng,25m2
+907,"Địa chỉ: Quận Hải Châu, Đà Nẵng",2 triệu/tháng,15m2
+908,"Địa chỉ: 84 Vân Đồn, Quận Sơn Trà, Đà Nẵng",2.5 triệu/tháng,25m2
+909,"Địa chỉ: 36 Trần Văn Dư, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",1 triệu/tháng,15m2
+910,"Địa chỉ: Phú Thạnh 3, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",800.000 đồng/tháng,16m2
+911,"Địa chỉ: Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",1.2 triệu/tháng,24m2
+912,"Địa chỉ: Đống Đa, Phường Thạch Thang, Quận Hải Châu, Đà Nẵng",1.5 triệu/tháng,20m2
+913,"Địa chỉ: 508 Lê Văn Hiến (gần ngã ba Hải Triều), Phường Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",1 triệu/tháng,22m2
+914,"Địa chỉ: Hồ Tùng Mậu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",Thỏa thuận,20m2
+915,"Địa chỉ: Hoàng Diệu, Phường Hải Châu I, Quận Hải Châu, Đà Nẵng",Thỏa thuận,30m2
+916,"Địa chỉ: Cù Chính Lan, Phường Hòa Khê, Quận Thanh Khê, Đà Nẵng",800.000 đồng/tháng,15m2
+917,"Địa chỉ: Chơn Tâm, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1.600 đồng/tháng,48m2
+918,"Địa chỉ: 664/15 Trưng Nữ Vương, Phường Hòa Thuận Tây, Quận Hải Châu, Đà Nẵng",1.2 triệu/tháng,20m2
+919,"Địa chỉ: Hồ Tùng Mậu, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",Thỏa thuận,30m2
+920,"Địa chỉ: K894H7/4 Ngô Quyền, Phường An Hải Bắc, Quận Sơn Trà, Đà Nẵng",1.3 triệu/tháng,20m2
+921,"Địa chỉ: Đường Dương Cát Lợi, Phường Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",1 triệu/tháng,27m2
+922,"Địa chỉ: K115/27 Đỗ Thúc Tịnh, Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",900.000 đồng/tháng,15m2
+923,"Địa chỉ: 266/41 Hoàng Diệu, Quận Hải Châu",2.5 triệu/tháng,30m2
+924,"Địa chỉ: Hà Huy Tập, quận Thanh Khê, Đà Nẵng",1 triệu/tháng,25m2
+925,"Địa chỉ: 19 Bàu Hạc 5, Quận Thanh Khê",Thỏa thuận,12m2
+926,Địa chỉ: 183/7 Tô Hiệu Liên Chiểu Đà Nẵng,1.3 triệu/tháng,25m2
+927,"Địa chỉ: Đường Đồng Trí 2, ngay ô tô Trường Hải và Đại học Sư Phạm",600.000 đồng/tháng,28m2
+928,"Địa chỉ: K122/19 Đường Lê Hữu Trác , Phường An Hải Đông, TP Đà Nẵng",Thỏa thuận,16m2
+929,"Địa chỉ: 268 Nguyễn Công Trứ, P.Phước Mỹ, Quận Sơn Trà",1 triệu/tháng,18m2
+930,"Địa chỉ: Đường Phần Lăng 19, Q.Thanh Khê",1.2 triệu/tháng,20m2
+931,Địa chỉ: 08 HỒ BIỂU CHÁNH,1.5 triệu/tháng,20m2
+932,"Địa chỉ: K36/03 Bắc Đẩu, Quận Hải Châu – Đà Nẵng",4 triệu/tháng,100m2
+933,"Địa chỉ: Cách Mạng Tháng 8, Quận Cẩm Lệ",1.3 triệu/tháng,15m2
+934,"Địa chỉ: 55 Kỳ Đồng, Xuân Hà, Quận Thanh Khê",3.5 triệu/tháng,34m2
+935,"Địa chỉ: K74 H39/02 Trần Cao Vân, P. Tam Thuận, Q. Thanh Khê, Đà Nẵng",3 triệu/tháng,50m2
+936,"Địa chỉ: 83 Phần Lăng 9, Quận Thanh Khê",1.1 triệu/tháng,21m2
+937,"Địa chỉ: 233/12 Núi Thành, Quận Hải Châu",Thỏa thuận,26m2
+938,"Địa chỉ: 198 Đoàn Hữu Trưng, Quận Cẩm Lệ",Thỏa thuận,18m2
+939,"Địa chỉ: K130/20 Hồ Xuân Hương, Ngũ Hành Sơn",Thỏa thuận,30m2
+940,"Địa chỉ: K424/H14/2 Lê Duẩn, Quận Thanh Khê",2.3 triệu/tháng,40m2
+941,"Địa chỉ: 63/26 Chế Lan Viên, Quận Ngũ Hành Sơn",1 triệu/tháng,18m2
+942,"Địa chỉ: Nhà 25, Đường Thanh Vinh 8, Phường Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",500.000 đồng/tháng,12m2
+943,"Địa chỉ: 626 Núi Thành, Quận Hải Châu, Tp.Đà Nẵng",1 triệu/tháng,30m2
+944,"Địa chỉ: 526/15 Trưng Nữ Vương, Đà nẵng",1.5 triệu/tháng,20m2
+945,Địa chỉ: Trịnh Đình Thảo,1.2 triệu/tháng,30m2
+946,"Địa chỉ: K19/8 Quang Trung, Đà Nẵng",2 triệu/tháng,18m2
+947,"Địa chỉ: Lê Hữu Trác, Phước Mỹ, Quận Sơn Trà",Thỏa thuận,20m2
+948,Địa chỉ: 161/63 Âu Cơ - Đà Nẵng,800.000 đồng/tháng,12m2
+949,"Địa chỉ: 217/9A Núi Thành, Đà Nẵng",700.000 đồng/tháng,"12,32m2"
+950,Địa chỉ: 134 Huynh Ly,2 triệu/tháng,91m2
+951,"Địa chỉ: 120/16 Điện Biên Phủ, gần công viên 29/03",1.2 triệu/tháng,12m2
+952,Địa chỉ: 124 Hải Hồ,2.5 triệu/tháng,30m2
+953,Địa chỉ: k64/22 trần cao vân,1 triệu/tháng,15m2
+954,"Địa chỉ: 9 Nguyễn Tất Thành, Q. Thanh Khê, TP Đà Nẵng",2 triệu/tháng,25m2
+955,"Địa chỉ: 67 Lương Định Của, Cẩm Lệ, Đà Nẵng",1.5 triệu/tháng,24m2
+956,"Địa chỉ: K19/8 Quang Trung, Hải Châu, Đà Nẵng",2 triệu/tháng,18m2
+957,"Địa chỉ: 114 Nguyễn Giản Thanh, Thanh Khuê, Đà Nẵng",1 triệu/tháng,15-17m2
+958,"Địa chỉ: 84 Nguyễn Huy Lượng, Thanh Khê, Đà Nẵng",1 triệu/tháng,15m2
+959,"Địa chỉ: K654/17 Trưng Nữ Vương, Hải Châu, Đà Nẵng",1 triệu/tháng,28m2
+960,"Địa chỉ: K640 Trưng Nữ Vương, quận Hải Châu, Đà Nẵng",1.2 triệu/tháng,15m2
+961,Địa chỉ: 93 Hàm Nghi,1.2 triệu/tháng,15m2
+962,Địa chỉ: 05 Chơn Tâm 3,1 triệu/tháng,14m2
+963,Địa chỉ: 41k/9 pasteur quận hải châu phường hải châu 1,1 triệu/tháng,12m2
+964,Địa chỉ: K82 Nguyễn Văn Linh,1.6 triệu/tháng,18m2
+965,"Địa chỉ: 27/1 Đinh Tiên Hoàng, Quận Thanh Khê, Đà Nẵng",2.5 triệu/tháng,60m2
+966,Địa chỉ: 13 Nguyễn Xí,1.2 triệu/tháng,20m2
+967,Địa chỉ: Nguyễn Văn Linh,1.2 triệu/tháng,15m2
+968,Địa chỉ: Trần Đại Nghĩa Quận Ngũ Hành Sơn – Đà Nẵng,600.000 đồng/tháng,15m2
+969,Địa chỉ: Nguyễn Văn Linh,1.6 triệu/tháng,16m2
+970,Địa chỉ: 96 Vũ Quỳnh,900.000 đồng/tháng,15m2

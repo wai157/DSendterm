@@ -1,0 +1,9 @@
+,model,parameters,set,RMSE,R-squared,MAPE,MAE
+0,Light Gradient Boosting,default,trainset,915846.00,0.44,0.37,700777.26
+1,Light Gradient Boosting,default,testset,1029754.00,0.37,0.43,793112.40
+2,Light Gradient Boosting,best,trainset,885289.97,0.48,0.36,676874.90
+3,Light Gradient Boosting,best,testset,1016099.60,0.39,0.41,780322.54
+4,Random Forest,default,trainset,761660.61,0.62,0.28,544189.81
+5,Random Forest,default,testset,1068065.33,0.32,0.40,801880.23
+6,Random Forest,best,trainset,870579.71,0.50,0.35,662195.57
+7,Random Forest,best,testset,1013089.82,0.39,0.40,772311.76
